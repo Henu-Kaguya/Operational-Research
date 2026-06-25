@@ -8,3 +8,8 @@
 - `exercises/`: homework, question banks.
 - `notes/`: 成绩分布.
 - `exams/`: 往年考试卷子(不是哥们,2013年的,给我干哪一年来了,怎么还有我前任学院,而且这学院早改名了).
+
+
+## 开源协议 / License
+
+本项目采用 [CC BY-NC-SA 4.0 (署名-非商业性使用-相同方式共享)](LICENSE) 许可协议。
