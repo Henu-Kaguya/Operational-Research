@@ -13,3 +13,13 @@
 ## 开源协议 / License
 
 本项目采用 [CC BY-NC-SA 4.0 (署名-非商业性使用-相同方式共享)](LICENSE) 许可协议。
+
+## 大型资料下载
+
+课程教学课件已移至 [archive-2026 Release](https://github.com/Henu-Kaguya/Operational-Research/releases/tag/archive-2026)：
+
+| Release 资产 | 内容 |
+|---|---|
+| `operational-research-slides.zip` | 运筹学核心章节教学课件（PPTX 共 7 个文件） |
+
+`notes/`、`exercises/` 与 `exams/` 继续在 Git 中维护。
